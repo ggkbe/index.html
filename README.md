@@ -14,8 +14,8 @@
       <input type="checkbox" id="ramo1">
       <label for="ramo1">Biología General</label>
     </div>
-    <div class="ramo">
-      <input type="checkbox" id="ramo2">
+    <div class="Fundamento de la estructura del cuerpo humano I">
+      <input type="checkbox" id="Fundamento de la estructura del cuerpo humano II">
       <label for="ramo2">Química I</label>
     </div>
   </div>
